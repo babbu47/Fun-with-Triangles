@@ -13,7 +13,7 @@ background-color: black;
 }
 .non-bullet{
     list-style: none;
-    padding: orem 1rem;
+    padding: 0rem 1rem;
 }
 .list-inline{
     display:inline;
